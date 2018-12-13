@@ -1,6 +1,9 @@
 # RUBRIC
 RUBRIC stands for the Regulatory Basis for Informed Consent. It is a BFO-based ontology.
 
+## WARNING:
+This repository is under development. This ontology was developed from the ideas in the [Common Rule Ontology](https://github.com/CRO-ontology/CRO).
+
 ## Warning: This ontology is currently in a pre-release DRAFT form
 While the ontology remains in this form, the developers give no assurances as to the permanance of the URI's in the ontology. Although the ontology is substantively finished, as of March 2018 the ontology is actively being worked on by a set of core developers and collaborators. We have recently finished a workshop on Informed Consent and the Informed Consent ontology (See https://github.com/ICO-ontology/ICO) in Little Rock, Ark. where a series of development principles and design patterns for work representing research rights, permissions, and obligations were decided on. The framework uses deontic roles. We intend to harmonized the RUBRIC with the Informed Consent Ontology, as well as several other BFO-based/OBO-Foundry ontologies.
 
